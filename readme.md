@@ -18,14 +18,17 @@ Automated reminders and notifications
 
  
 
-- [@backend live api](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@backend live api]()
 
-## API END POINTS :
-/users
-/admin
-/admin:email
-/admin:email
-/services
-/specialist
-/booking
-    
+## API END POINT :
+    /users
+    /admin
+    /admin:email
+    /admin:email
+    /services
+    /specialist
+    /booking
+
+## file upload
+## cors middleware
+## req.body=undefined solve
